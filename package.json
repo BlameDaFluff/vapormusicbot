@@ -4,7 +4,7 @@
   "description": "Music bot for the Team Vapor Discord",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "author": "Brey Rivera",
   "license": "ISC",
